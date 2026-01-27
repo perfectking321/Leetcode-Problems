@@ -8,7 +8,7 @@ class Solution {
         //convert the matrix to list
         for(int i=0;i<node;i++){
             for(int j=0;j<node;j++){
-                if(isConnected[i][j]==1 && i!=j && i<j){
+                if(isConnected[i][j]==1 && i!=j){
                     isConnectedList.get(i).add(j);
                     isConnectedList.get(j).add(i);
                 }
