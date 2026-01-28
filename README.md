@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/perfectking321/Leetcode-Problems/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/perfectking321/Leetcode-Problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/perfectking321/Leetcode-Problems/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/perfectking321/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/perfectking321/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 ## Depth-First Search
 |  |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/perfectking321/Leetcode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/perfectking321/Leetcode-Problems/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/perfectking321/Leetcode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/perfectking321/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/perfectking321/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/perfectking321/Leetcode-Problems/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/perfectking321/Leetcode-Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/perfectking321/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/perfectking321/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0994-rotting-oranges](https://github.com/perfectking321/Leetcode-Problems/tree/master/0994-rotting-oranges) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/perfectking321/Leetcode-Problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Matrix
