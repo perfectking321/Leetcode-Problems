@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/perfectking321/Leetcode-Problems/tree/master/0994-rotting-oranges) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/perfectking321/Leetcode-Problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Matrix
 |  |
 | ------- |
