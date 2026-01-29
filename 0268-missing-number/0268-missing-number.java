@@ -1,15 +1,18 @@
 class Solution {
     public int missingNumber(int[] nums) {
-        int N = nums.length;
-        int sum = (N * (N + 1)) / 2;
-
-        // Calculate the sum of elements in the array
-        int actualSum = 0;
-        for (int i = 0; i < N; i++) {
-            actualSum += nums[i];
+        int n = nums.length;
+        int xor = 0;
+        
+        // XOR all numbers from 0 to n
+        for(int i = 0; i <= n; i++){
+            xor ^= i;
         }
-
-        // Missing number is the difference
-        return sum - actualSum;
+        
+        // XOR all numbers in the array
+        for(int num : nums){
+            xor ^= num;
+        }
+        
+        return xor;
     }
 }
