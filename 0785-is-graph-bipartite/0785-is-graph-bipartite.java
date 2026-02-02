@@ -1,0 +1,26 @@
+class Solution {
+    public boolean isBipartite(int[][] graph) {
+        int v = graph.length;
+        int[] color = new int[v];
+        for(int i=0;i<v;i++) color[i]=-1;
+        for(int i=0;i<v;i++){
+            if(color[i]==-1){
+                if(dfs(i,0,color,graph)==false) return false;
+            }
+        }
+        return true;
+    }
+    private boolean dfs(int node,int col, int[] color, int[][] adj){
+        color[node] = col;
+        for(int x: adj[node]){
+            //if uncolored
+            if(color[x]==-1){
+                if(dfs(x,1-col,color,adj)==false) return false;
+            }
+            else if(color[x]==col){
+                return false;
+            }
+        }
+        return true;
+    }
+}
