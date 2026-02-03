@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/perfectking321/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/perfectking321/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/perfectking321/Leetcode-Problems/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/perfectking321/Leetcode-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/perfectking321/Leetcode-Problems/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/perfectking321/Leetcode-Problems/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/perfectking321/Leetcode-Problems/tree/master/0785-is-graph-bipartite) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/perfectking321/Leetcode-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/perfectking321/Leetcode-Problems/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/perfectking321/Leetcode-Problems/tree/master/1020-number-of-enclaves) |
 ## Binary Tree
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/perfectking321/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/perfectking321/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/perfectking321/Leetcode-Problems/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/perfectking321/Leetcode-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Math
 |  |
 | ------- |
@@ -68,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/perfectking321/Leetcode-Problems/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/perfectking321/Leetcode-Problems/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/perfectking321/Leetcode-Problems/tree/master/0785-is-graph-bipartite) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/perfectking321/Leetcode-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/perfectking321/Leetcode-Problems/tree/master/1020-number-of-enclaves) |
 ## Dynamic Programming
 |  |
@@ -100,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/perfectking321/Leetcode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/perfectking321/Leetcode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/perfectking321/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/perfectking321/Leetcode-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -139,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/perfectking321/Leetcode-Problems/tree/master/0148-sort-list) |
 | [0268-missing-number](https://github.com/perfectking321/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/perfectking321/Leetcode-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Merge Sort
 |  |
 | ------- |
