@@ -14,28 +14,22 @@
  * }
  */
 class Solution {
+    public void traversal(TreeNode root, List<List<Integer>> lt, int i) {
+        if (root == null)
+            return;
+        if (i == lt.size())
+            lt.add(new ArrayList<>());
+        lt.get(i).add(root.val);
+        traversal(root.left, lt, i + 1);
+        traversal(root.right, lt, i + 1);
+    }
+
     public List<List<Integer>> zigzagLevelOrder(TreeNode root) {
-        List<List<Integer>> result = new ArrayList<>();
-        if(root == null) return result;
-        Queue<TreeNode> nodesQueue = new LinkedList<>();
-        nodesQueue.offer(root);
-        boolean leftToright = true;
-        while(!nodesQueue.isEmpty()){
-            int size = nodesQueue.size();
-            List<Integer> row = new ArrayList(size);
-            for(int i = 0; i < size; i++) {
-                row.add(0);
-            }
-            for(int i = 0;i<size;i++){
-                TreeNode node = nodesQueue.poll();
-                int index = leftToright ? i : size-1-i;
-                row.set(index,node.val);
-                if(node.left != null) nodesQueue.offer(node.left);
-                if(node.right != null) nodesQueue.offer(node.right);
-            }
-            result.add(row);
-            leftToright = !leftToright;
+        List<List<Integer>> lt = new ArrayList<>();
+        traversal(root, lt, 0);
+        for (int i = 1; i < lt.size(); i +=2) {
+                Collections.reverse(lt.get(i));
         }
-        return result;
+        return lt;
     }
 }
