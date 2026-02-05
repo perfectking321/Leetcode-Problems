@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/perfectking321/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/perfectking321/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0054-spiral-matrix](https://github.com/perfectking321/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/perfectking321/Leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/perfectking321/Leetcode-Problems/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/perfectking321/Leetcode-Problems/tree/master/0136-single-number) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/perfectking321/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/perfectking321/Leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/perfectking321/Leetcode-Problems/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/perfectking321/Leetcode-Problems/tree/master/0542-01-matrix) |
@@ -220,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/perfectking321/Leetcode-Problems/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/perfectking321/Leetcode-Problems/tree/master/0268-missing-number) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/perfectking321/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
