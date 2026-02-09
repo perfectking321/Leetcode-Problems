@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/perfectking321/Leetcode-Problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/perfectking321/Leetcode-Problems/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/perfectking321/Leetcode-Problems/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/perfectking321/Leetcode-Problems/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/perfectking321/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/perfectking321/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/perfectking321/Leetcode-Problems/tree/master/0509-fibonacci-number) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/perfectking321/Leetcode-Problems/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/perfectking321/Leetcode-Problems/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/perfectking321/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/perfectking321/Leetcode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0509-fibonacci-number](https://github.com/perfectking321/Leetcode-Problems/tree/master/0509-fibonacci-number) |
@@ -250,4 +252,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/perfectking321/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/perfectking321/Leetcode-Problems/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
