@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/perfectking321/Leetcode-Problems/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/perfectking321/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/perfectking321/Leetcode-Problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/perfectking321/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/perfectking321/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/perfectking321/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/perfectking321/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/perfectking321/Leetcode-Problems/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/perfectking321/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/perfectking321/Leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/perfectking321/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/perfectking321/Leetcode-Problems/tree/master/0130-surrounded-regions) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/perfectking321/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/perfectking321/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [1903-largest-odd-number-in-string](https://github.com/perfectking321/Leetcode-Problems/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
