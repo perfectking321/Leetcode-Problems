@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/perfectking321/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/perfectking321/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/perfectking321/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
+| [0455-assign-cookies](https://github.com/perfectking321/Leetcode-Problems/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/perfectking321/Leetcode-Problems/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/perfectking321/Leetcode-Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/perfectking321/Leetcode-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/perfectking321/Leetcode-Problems/tree/master/0148-sort-list) |
 | [0268-missing-number](https://github.com/perfectking321/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/perfectking321/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
+| [0455-assign-cookies](https://github.com/perfectking321/Leetcode-Problems/tree/master/0455-assign-cookies) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/perfectking321/Leetcode-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Merge Sort
 |  |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/perfectking321/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/perfectking321/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0435-non-overlapping-intervals](https://github.com/perfectking321/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
+| [0455-assign-cookies](https://github.com/perfectking321/Leetcode-Problems/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/perfectking321/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0542-01-matrix](https://github.com/perfectking321/Leetcode-Problems/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/perfectking321/Leetcode-Problems/tree/master/0733-flood-fill) |
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/perfectking321/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/perfectking321/Leetcode-Problems/tree/master/0134-gas-station) |
 | [0435-non-overlapping-intervals](https://github.com/perfectking321/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
+| [0455-assign-cookies](https://github.com/perfectking321/Leetcode-Problems/tree/master/0455-assign-cookies) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/perfectking321/Leetcode-Problems/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1903-largest-odd-number-in-string](https://github.com/perfectking321/Leetcode-Problems/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
