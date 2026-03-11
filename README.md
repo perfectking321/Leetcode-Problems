@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/perfectking321/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/perfectking321/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/perfectking321/Leetcode-Problems/tree/master/0509-fibonacci-number) |
+| [1247-minimum-swaps-to-make-strings-equal](https://github.com/perfectking321/Leetcode-Problems/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1903-largest-odd-number-in-string](https://github.com/perfectking321/Leetcode-Problems/tree/master/1903-largest-odd-number-in-string) |
 ## Depth-First Search
 |  |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/perfectking321/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/perfectking321/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
 | [1021-remove-outermost-parentheses](https://github.com/perfectking321/Leetcode-Problems/tree/master/1021-remove-outermost-parentheses) |
+| [1247-minimum-swaps-to-make-strings-equal](https://github.com/perfectking321/Leetcode-Problems/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1903-largest-odd-number-in-string](https://github.com/perfectking321/Leetcode-Problems/tree/master/1903-largest-odd-number-in-string) |
 ## Union-Find
 |  |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/perfectking321/Leetcode-Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/perfectking321/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/perfectking321/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
+| [1247-minimum-swaps-to-make-strings-equal](https://github.com/perfectking321/Leetcode-Problems/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1903-largest-odd-number-in-string](https://github.com/perfectking321/Leetcode-Problems/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
 |  |
