@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/perfectking321/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/perfectking321/Leetcode-Problems/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1903-largest-odd-number-in-string](https://github.com/perfectking321/Leetcode-Problems/tree/master/1903-largest-odd-number-in-string) |
+| [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/perfectking321/Leetcode-Problems/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/perfectking321/Leetcode-Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/perfectking321/Leetcode-Problems/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1903-largest-odd-number-in-string](https://github.com/perfectking321/Leetcode-Problems/tree/master/1903-largest-odd-number-in-string) |
+| [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/perfectking321/Leetcode-Problems/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 ## Union-Find
 |  |
 | ------- |
@@ -292,8 +294,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/perfectking321/Leetcode-Problems/tree/master/0455-assign-cookies) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/perfectking321/Leetcode-Problems/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1903-largest-odd-number-in-string](https://github.com/perfectking321/Leetcode-Problems/tree/master/1903-largest-odd-number-in-string) |
+| [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/perfectking321/Leetcode-Problems/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/perfectking321/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
+## Game Theory
+|  |
+| ------- |
+| [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/perfectking321/Leetcode-Problems/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 <!---LeetCode Topics End-->
