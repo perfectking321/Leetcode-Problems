@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/perfectking321/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/perfectking321/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/perfectking321/Leetcode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0435-non-overlapping-intervals](https://github.com/perfectking321/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/perfectking321/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/perfectking321/Leetcode-Problems/tree/master/0542-01-matrix) |
 ## Stack
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/perfectking321/Leetcode-Problems/tree/master/0015-3sum) |
 | [0148-sort-list](https://github.com/perfectking321/Leetcode-Problems/tree/master/0148-sort-list) |
 | [0268-missing-number](https://github.com/perfectking321/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0435-non-overlapping-intervals](https://github.com/perfectking321/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/perfectking321/Leetcode-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Merge Sort
 |  |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/perfectking321/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/perfectking321/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/perfectking321/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
+| [0435-non-overlapping-intervals](https://github.com/perfectking321/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/perfectking321/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0542-01-matrix](https://github.com/perfectking321/Leetcode-Problems/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/perfectking321/Leetcode-Problems/tree/master/0733-flood-fill) |
@@ -272,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/perfectking321/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [1903-largest-odd-number-in-string](https://github.com/perfectking321/Leetcode-Problems/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
 |  |
