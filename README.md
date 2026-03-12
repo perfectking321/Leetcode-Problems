@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/perfectking321/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/perfectking321/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/perfectking321/Leetcode-Problems/tree/master/0542-01-matrix) |
+| [1143-longest-common-subsequence](https://github.com/perfectking321/Leetcode-Problems/tree/master/1143-longest-common-subsequence) |
 ## Stack
 |  |
 | ------- |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/perfectking321/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/perfectking321/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
 | [1021-remove-outermost-parentheses](https://github.com/perfectking321/Leetcode-Problems/tree/master/1021-remove-outermost-parentheses) |
+| [1143-longest-common-subsequence](https://github.com/perfectking321/Leetcode-Problems/tree/master/1143-longest-common-subsequence) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/perfectking321/Leetcode-Problems/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1903-largest-odd-number-in-string](https://github.com/perfectking321/Leetcode-Problems/tree/master/1903-largest-odd-number-in-string) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/perfectking321/Leetcode-Problems/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
