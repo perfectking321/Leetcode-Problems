@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/perfectking321/Leetcode-Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/perfectking321/Leetcode-Problems/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/perfectking321/Leetcode-Problems/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/perfectking321/Leetcode-Problems/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/perfectking321/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/perfectking321/Leetcode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0322-coin-change](https://github.com/perfectking321/Leetcode-Problems/tree/master/0322-coin-change) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/perfectking321/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/perfectking321/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
+| [0091-decode-ways](https://github.com/perfectking321/Leetcode-Problems/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/perfectking321/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/perfectking321/Leetcode-Problems/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/perfectking321/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
