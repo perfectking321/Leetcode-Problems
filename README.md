@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/perfectking321/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/perfectking321/Leetcode-Problems/tree/master/0455-assign-cookies) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/perfectking321/Leetcode-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/perfectking321/Leetcode-Problems/tree/master/1727-largest-submatrix-with-rearrangements) |
 ## Merge Sort
 |  |
 | ------- |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/perfectking321/Leetcode-Problems/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/perfectking321/Leetcode-Problems/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/perfectking321/Leetcode-Problems/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/perfectking321/Leetcode-Problems/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/perfectking321/Leetcode-Problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/perfectking321/Leetcode-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Matrix
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/perfectking321/Leetcode-Problems/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/perfectking321/Leetcode-Problems/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/perfectking321/Leetcode-Problems/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/perfectking321/Leetcode-Problems/tree/master/1727-largest-submatrix-with-rearrangements) |
 ## Binary Search
 |  |
 | ------- |
@@ -311,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/perfectking321/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/perfectking321/Leetcode-Problems/tree/master/0455-assign-cookies) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/perfectking321/Leetcode-Problems/tree/master/1247-minimum-swaps-to-make-strings-equal) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/perfectking321/Leetcode-Problems/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1903-largest-odd-number-in-string](https://github.com/perfectking321/Leetcode-Problems/tree/master/1903-largest-odd-number-in-string) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/perfectking321/Leetcode-Problems/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 ## Trie
